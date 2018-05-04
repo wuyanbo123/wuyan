@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\bin\Debug\jieye.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\obj\Debug\jieye.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\obj\Debug\jieye.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\obj\Debug\jieye.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\obj\Debug\jieye.csproj.GenerateResource.Cache
+C:\Users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\bin\Debug\jieye.exe
+C:\Users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\bin\Debug\jieye.pdb
+C:\Users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\obj\Debug\jieye.exe
+C:\Users\lenovo\documents\visual studio 2012\Projects\jieye\jieye\obj\Debug\jieye.pdb
